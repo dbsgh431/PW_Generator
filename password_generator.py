@@ -1,5 +1,5 @@
 import hashlib
-from re import L
+
 import sys
 from PyQt5.QtWidgets import QApplication, QWidget, QDesktopWidget, QLabel, QLineEdit
 
