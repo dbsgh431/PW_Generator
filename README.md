@@ -9,4 +9,5 @@
   <p>
   <p>
   <h3> 생성 결과 창 </h3>
-![image](https://user-images.githubusercontent.com/39187226/188443484-9ffdfc00-2e1d-43a3-9c50-2624df6ca6be.png)
+
+![image](https://user-images.githubusercontent.com/39187226/188443592-06176a45-93d3-4a8a-96a1-185d238bb9db.png)
