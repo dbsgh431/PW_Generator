@@ -19,8 +19,8 @@ class PW_GEN():
 
 class MyApp(QWidget):
     global id
-    id = ''
     global site
+    id = ''
     site= ''
 
     def __init__(self):
